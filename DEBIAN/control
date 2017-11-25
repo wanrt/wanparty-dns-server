@@ -1,0 +1,10 @@
+Source: wanparty-dns-server
+Section: unknown
+Priority: extra
+Maintainer: Sohaib Lafifi <sohaib.lafifi@univ-artois.fr>
+Homepage: wanparty.neticien.net
+Package: wanparty-dns-server
+Version: 1.9.5
+Architecture: all
+Depends:  bind9, wanparty-base, wanparty-network-config
+Description: installation et configuration du serveur dns locale de la wan
